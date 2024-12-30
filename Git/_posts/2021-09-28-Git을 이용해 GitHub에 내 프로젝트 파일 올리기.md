@@ -56,8 +56,8 @@ git commit -m "created new repository."
 \- 만약 Git에 사용자의 이름과 이메일 주소 정보를 저장한 적 없다면 에러 메시지가 뜨면서 커밋이 진행되지 않는다. _(그 repository를 만든 사람의 정보를 그 repository에 추가할 수 없기 때문이다. 프로젝트 파일을 다른 사람들과 공유하는 것은 Git의 중요한 사용 목적이므로 당연히 그 정보가 프로젝트 파일에 추가될 수 있게 해야 한다.)_ 이 경우 다음 명령어로 이름과 이메일 주소 정보를 Git에 저장한 후 다시 커밋을 진행해야 한다. 
 
 ```HTML
-git config user.name "lkwks"
-git config user.email "lkwks@naver.com"
+git config user.name "klee313"
+git config user.email "kangwooklee313@gamil.com"
 ```
 
 #### 4) 푸시한다.

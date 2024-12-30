@@ -104,7 +104,7 @@ npm install
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lkwks",
+  "author": "Kangwook Lee",
   "license": "ISC"
 }
 ```
